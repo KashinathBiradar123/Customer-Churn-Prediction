@@ -91,4 +91,4 @@ pip install pandas numpy scikit-learn
 
 **Kashinath Biradar**  
 [GitHub Profile](https://github.com/KashinathBiradar123)
-[Linkedin Profile]([https://github.com/KashinathBiradar123](https://www.linkedin.com/in/kashinath-biradar-23b0a0274/))
+[Linkedin Profile](https://www.linkedin.com/in/kashinath-biradar-23b0a0274/)
